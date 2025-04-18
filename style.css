@@ -1,0 +1,27 @@
+button {
+    background-color: red;
+    color: rgb(0, 0, 0);
+    box-shadow: 2px 5px 5px rgb(0, 0, 0);
+    cursor: pointer;
+    padding: 10px
+}
+
+p {
+    color: black
+}
+
+h3{
+    color: gray
+}
+
+label{
+    color: gray
+}
+
+h1{
+    color: black
+}
+
+h2{
+    color: rgba(255, 255, 255, 0);
+}
